@@ -1,0 +1,27 @@
+body{
+    
+    color: #333;
+    background-image: linear-gradient(to top left, #753682 0%, #bf2e34 100%);
+}
+.game-box{
+    border: 2px solid black;
+    
+    margin-top:5%;
+    margin-left: 15%;
+    width: 50em;
+    height:30em;
+    border-radius: 5%;    
+}
+.Player1{
+    
+    width: 25em;
+    height: 30em;
+    border-radius: 5%;
+}
+.Player2{
+
+    width: 25em;
+    height: 30em;
+    border-radius: 5%;
+}
+
